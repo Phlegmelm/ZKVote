@@ -1,0 +1,7 @@
+[package]
+name = "zkvote"
+type = "bin"
+authors = ["Asher"]
+compiler_version = ">=0.19.0"
+
+[dependencies]
