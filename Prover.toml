@@ -1,0 +1,6 @@
+secret = "42"
+vote = "1"
+index = "0"
+path = ["1", "2", "3"]
+merkle_root = "0x1a87e501235ac728bbbef4dd5f7510722de3d86eccb65accb0cbc5d2d0e57249"
+nullifier = "0x13b4df2bb5c6ef44590c1f54edb6eddd576d276e8043972f1ed0f3746b422925"
